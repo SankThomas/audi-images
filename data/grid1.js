@@ -13,7 +13,7 @@ const data = [
     image: './images/special_message.jpg',
     title: 'Special message with the Audi digital matrix light',
     desc:
-      'With the help of digitaal matric LED technology, Audi lighting designer and Beyern Munich fan, Cesar Muntada, sends very special configurations to his favorite team.',
+      'With the help of digital matrix LED technology, Audi lighting designer and Bayern Munich fan, Cesar Muntada, sends very special configurations to his favorite team.',
   },
   {
     id: uuidv4(),
