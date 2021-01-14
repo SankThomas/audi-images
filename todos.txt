@@ -1,0 +1,7 @@
+1. npx create-react-app
+2. install tailwindcss
+    - tailwindcss.com/docs/installation
+3. npm i react-icons --save
+    - Search, Globe, Social media icons
+4. npm i uuid
+    - generate unique ids for array items
